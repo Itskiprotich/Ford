@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "851131618512",
+    "firebase_url": "https://groupb-3591f.firebaseio.com",
+    "project_id": "groupb-3591f",
+    "storage_bucket": "groupb-3591f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851131618512:android:f940878dfbd33439",
+        "android_client_info": {
+          "package_name": "com.fordperformanceclubofact.groupb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851131618512-bk2pn6mbog2r208kbvj48emg2pt4388t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2AhQbvsD_mKz9wXrgu1qrkdxJl-ffRgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

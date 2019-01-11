@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/aa"
+        android:orderInCategory="100"
+        android:title="Mechandise"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/bb"
+        android:orderInCategory="100"
+        android:title="Sponsor"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cc"
+        android:orderInCategory="100"
+        android:title="Manage"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/dd"
+        android:orderInCategory="100"
+        android:title="Updates"
+        app:showAsAction="never" />
+
+</menu>
